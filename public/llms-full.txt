@@ -2,13 +2,13 @@
 
 A fun and vibrant online toy store specializing in squishies, slimes, and other cool sensory and novelty products. The brand has a playful, youthful, and colorful vibe aimed at kids and teens who love trendy, satisfying, and stress-relief toys. The store carries a wide variety of exciting and unique items beyond just squishies and slimes.
 
-Source: https://toys-17dd938e.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם של צעצועי קליק וסיפוק — אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים לאופיר צעצועים, חנות אונליין צבעונית לנוער וילדים עם מבחר ענק של סקווישיז, סליימים, צעצועי גאגטים וצעצועי חידוש סיטונאיים שיעיפו לכם את החושים. היכנסו עכשיו וגלו את הלהיטים הכי שווים!
 
 גלו עולם של צעצועי קליק וסיפוק — אופיר toys
@@ -510,7 +510,7 @@ Description: ברוכים הבאים לאופיר צעצועים, חנות או�
 
 ## צללו לחוויה חושית בלתי נשכחת — אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app/sensory-fun
+URL: https://example.com/sensory-fun
 Description: מחפשים פורקן מרגיע וממכר? דף הכיף החושי שלנו מפוצץ בצעצועי גאג וסיפוק, סליים נוצץ וצעצועי חידוש זוהרים באור שיעשו לכם נעים בידיים ובלב. בואו למעוך, ללחוץ וליהנות!
 
 צללו לחוויה חושית בלתי נשכחת — אופיר toys
@@ -858,7 +858,7 @@ Description: מחפשים פורקן מרגיע וממכר? דף הכיף החו
 
 ## הפתיעו במתנה הכי מגניבה שיש — אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app/gift-ideas
+URL: https://example.com/gift-ideas
 Description: מתלבטים איזה צעצוע לקנות? אספנו לכם רעיונות למתנות שוות במיוחד – מצעצועי חידוש לילדים ועד גאדג&#39;טים זוהרים וצעצועי קליק סיטונאיים שיגרמו לכל ילד וילדה לצרוח מאושר. תנו מתנה בלתי נשכחת!
 
 הפתיעו במתנה הכי מגניבה שיש — אופיר toys
@@ -1301,7 +1301,7 @@ Description: מתלבטים איזה צעצוע לקנות? אספנו לכם ר
 
 ## הכירו את הסיפור מאחורי הכיף — אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app/about
+URL: https://example.com/about
 Description: אופיר צעצועים זה לא סתם עוד חנות – אנחנו מביאים לכם את צעצועי החידוש הכי טרנדיים, מסליים רך ועד סקווישיז מפנקים, עם דגש על איכות, צבעוניות וחוויית קנייה סיטונאית משתלמת. בואו להיות חלק מהמשפחה הכיפית שלנו!
 
 הכירו את הסיפור מאחורי הכיף — אופיר toys
@@ -1693,7 +1693,7 @@ Description: אופיר צעצועים זה לא סתם עוד חנות – אנ
 
 ## דברו איתנו, נשמח לעזור — אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על צעצועי חידוש זוהרים או הזמנה סיטונאית? צוות אופיר צעצועים כאן בשבילכם! מלאו את הטופס ונחזור אליכם במהירות עם חיוך ועצה טובה. בואו נתחיל ליהנות ביחד!
 
 דברו איתנו, נשמח לעזור — אופיר toys
@@ -2031,7 +2031,7 @@ Description: יש שאלה על צעצועי חידוש זוהרים או הזמ
 
 ## מוצרים
 
-URL: https://toys-17dd938e.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - אופיר toys
 
 מוצרים - אופיר toys
@@ -2287,7 +2287,7 @@ Description: המוצרים שלנו - אופיר toys
 
 ## עגלת קניות
 
-URL: https://toys-17dd938e.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - אופיר toys
@@ -2519,7 +2519,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://toys-17dd938e.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - אופיר toys
@@ -2937,7 +2937,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://toys-17dd938e.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - אופיר toys
@@ -3176,7 +3176,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://toys-17dd938e.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - אופיר toys
@@ -3570,7 +3570,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://toys-17dd938e.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - אופיר toys
@@ -3826,7 +3826,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://toys-17dd938e.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - אופיר toys
@@ -4111,7 +4111,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://toys-17dd938e.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - אופיר toys
 
 פרטי המוצר - אופיר toys
@@ -4345,7 +4345,7 @@ Description: פרטי המוצר - אופיר toys
 
 ## מוצרים
 
-URL: https://toys-17dd938e.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - אופיר toys
 
 מוצרים - אופיר toys
@@ -4603,7 +4603,7 @@ Description: מוצרים - אופיר toys
 
 ## מדיניות פרטיות
 
-URL: https://toys-17dd938e.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4880,7 +4880,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://toys-17dd938e.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5166,7 +5166,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://toys-17dd938e.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5471,7 +5471,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | אופיר toys
 
-URL: https://toys-17dd938e.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית לאופיר toys. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
 
 תודה רבה | אופיר toys

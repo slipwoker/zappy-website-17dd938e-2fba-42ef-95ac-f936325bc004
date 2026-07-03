@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://toys-17dd938e.zappy5.app
+https://example.com
 ברוכים הבאים לאופיר צעצועים, חנות אונליין צבעונית לנוער וילדים עם מבחר ענק של סקווישיז, סליימים, צעצועי גאגטים וצעצועי חידוש סיטונאיים שיעיפו לכם את החושים. היכנסו עכשיו וגלו את הלהיטים הכי שווים!
 
 ### כיף חושי
-https://toys-17dd938e.zappy5.app/sensory-fun
+https://example.com/sensory-fun
 מחפשים פורקן מרגיע וממכר? דף הכיף החושי שלנו מפוצץ בצעצועי גאג וסיפוק, סליים נוצץ וצעצועי חידוש זוהרים באור שיעשו לכם נעים בידיים ובלב. בואו למעוך, ללחוץ וליהנות!
 
 ### רעיונות למתנות
-https://toys-17dd938e.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מתלבטים איזה צעצוע לקנות? אספנו לכם רעיונות למתנות שוות במיוחד – מצעצועי חידוש לילדים ועד גאדג&#39;טים זוהרים וצעצועי קליק סיטונאיים שיגרמו לכל ילד וילדה לצרוח מאושר. תנו מתנה בלתי נשכחת!
 
 ### אודות
-https://toys-17dd938e.zappy5.app/about
+https://example.com/about
 אופיר צעצועים זה לא סתם עוד חנות – אנחנו מביאים לכם את צעצועי החידוש הכי טרנדיים, מסליים רך ועד סקווישיז מפנקים, עם דגש על איכות, צבעוניות וחוויית קנייה סיטונאית משתלמת. בואו להיות חלק מהמשפחה הכיפית שלנו!
 
 ### צור קשר
-https://toys-17dd938e.zappy5.app/contact
+https://example.com/contact
 יש שאלה על צעצועי חידוש זוהרים או הזמנה סיטונאית? צוות אופיר צעצועים כאן בשבילכם! מלאו את הטופס ונחזור אליכם במהירות עם חיוך ועצה טובה. בואו נתחיל ליהנות ביחד!
 
 ### Products
-https://toys-17dd938e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אופיר toys
 
 ### Cart
-https://toys-17dd938e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://toys-17dd938e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://toys-17dd938e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://toys-17dd938e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://toys-17dd938e.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://toys-17dd938e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אופיר toys
 
 ### Category
-https://toys-17dd938e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אופיר toys
 
 ### תודה רבה | אופיר toys
-https://toys-17dd938e.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית לאופיר toys. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://toys-17dd938e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://toys-17dd938e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://toys-17dd938e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Toys & Novelty Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://toys-17dd938e.zappy5.app/sitemap.xml
-- Robots: https://toys-17dd938e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://toys-17dd938e.zappy5.app/llms-full.txt
-- Products (JSON): https://toys-17dd938e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://toys-17dd938e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
